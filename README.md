@@ -10,8 +10,6 @@
   - [Quick glance at the results](#quick-glance-at-the-results)
   - [Lessons learned and recommendation](#lessons-learned-and-recommendation)
   - [Limitation and what can be improved](#limitation-and-what-can-be-improved)
-  - [Explore the notebook](#explore-the-notebook)
-  - [Project featuring](#project-featuring)
  
 
 
